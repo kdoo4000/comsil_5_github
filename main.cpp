@@ -1,3 +1,4 @@
+//수정1
 #include <stdio.h>
 #include "Stack.h"
 
